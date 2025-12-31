@@ -1,3 +1,12 @@
+<div>
+  <img
+    src="https://render.gitanimals.org/farms/sonnyitsunny"
+    width="800"
+    height="300"
+  />
+</div>
+
+
 
 ## Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sun990422)](https://solved.ac/sun990422/)
@@ -17,3 +26,4 @@
 | SQLD | 2024.12 |
 | ADsP | 2025.06 |
 | 빅데이터분석기사 | 2025.12 |
+
