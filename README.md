@@ -2,4 +2,5 @@
 ---
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sun990422)](https://solved.ac/sun990422/)
 ---
-https://github-readme-stats.vercel.app/api/top-langs/?username={sonnyitsunny}&langs_count=5&layout=donut-vertical&size_weight=1&hide=jupyter%20notebook
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnyitsunny)
+
