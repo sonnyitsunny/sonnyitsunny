@@ -1,7 +1,7 @@
 <div>
   <img
     src="https://render.gitanimals.org/farms/sonnyitsunny"
-    width="800"
+    width="400"
     height="300"
   />
 </div>
