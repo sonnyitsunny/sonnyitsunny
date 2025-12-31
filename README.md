@@ -14,7 +14,7 @@
 ## Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sun990422)](https://solved.ac/sun990422/)
 
-## 
+## Contact
 <div style="text-align: left;">
     <br> 
     <div style="text-align: left;"> <a href=https://sonnyitsunny.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://sonnyitsunny.tistory.com/"> </a>
