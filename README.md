@@ -8,3 +8,12 @@
          <a href=mailto:sun9999042@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sun9999042@gmail.com"> </a>
           </div>  <br> 
     
+
+## Certifications
+
+| Name | Issued |
+|:----:|:------:|
+| 정보처리기사 | 2024.09 |
+| SQLD | 2024.12 |
+| ADsP | 2025.06 |
+| 빅데이터분석기사 | 2025.12 |
