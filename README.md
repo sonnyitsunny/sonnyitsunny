@@ -21,10 +21,11 @@
          <a href=mailto:sun9999042@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sun9999042@gmail.com"> </a>
           </div>  <br> 
 
-## Program Completion
+## Experience
 
-| Program | Period |
+| 활동 | 기간 |
 |:------:|:----:|
+|경희대학교 컴퓨터공학과 | 2018.03-2025.02 |
 | 네이버 부스트캠프 웹모바일 10기 챌린지 iOS | 2025.07-2025.08 |
 | 신한투자증권 프로디지털아카데미 7기 | 2025.12~ |
 
