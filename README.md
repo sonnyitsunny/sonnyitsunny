@@ -16,7 +16,7 @@
 
 ## Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnyitsunny&layout=compact&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnyitsunny&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Contact
