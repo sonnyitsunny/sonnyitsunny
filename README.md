@@ -7,10 +7,6 @@
   />
 </div>
 
-## Hobby
- - SnowBoard 🏂
- - Watching Formula1 🏎️
-
 ## Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sun990422)](https://solved.ac/sun990422/)
 
@@ -35,7 +31,7 @@
 
 ## Certifications
 
-| Name | Issued |
+| 자격증 | 취득일 |
 |:----:|:------:|
 | 정보처리기사 | 2024.09 |
 | SQLD | 2024.12 |
@@ -49,3 +45,9 @@
 |:------:|:--------:|:------:|
 | SW창업 아이디어 공모전 우수상 | 경희대학교 소프트웨어융합대학 | 2023.12 |
 | 전공스터디 프로그램 성적우수상 | 경희대학교 교수학습개발원  | 2025.01 |
+
+
+## ETC
+### hobby
+ - SnowBoard 🏂
+ - Watching Formula1 🏎️
