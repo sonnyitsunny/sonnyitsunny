@@ -7,7 +7,7 @@
   />
 </div>
 
-## Problem Solving
+## Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sun990422)](https://solved.ac/sun990422/)
 
 <div style="text-align: left;">
@@ -22,17 +22,9 @@
           <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=sonnyitsunny&bg_color=60,f31212,d8e619&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonnyitsunny&layout=compact&bg_color=60,f31212,d8e619&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
+
     
 
-
-## Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonnyitsunny&layout=compact&theme=tokyonight)
 
 ## Contact
 <div style="text-align: left;">
