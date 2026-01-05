@@ -66,13 +66,13 @@
 | SW창업 아이디어 공모전 우수상  | 경희대학교 소프트웨어융합대학 | 2023.12 |
 | 전공스터디 프로그램 성적우수상 |   경희대학교 교수학습개발원   | 2025.01 |
 
-## ETC
+## Beyond Code
 
-### hobby
+- Snowboarding 🏂  
+- Watching Formula 1 🏎️  
+- Golf ⛳️  
+- 교내 교양 스노우보드 수업 강사로 활동하며 100명 이상의 학생들을 가르쳤습니다.
 
-- SnowBoard 🏂
-- Watching Formula1 🏎️
-- Golf ⛳️
 
 <div>
   <img
