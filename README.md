@@ -37,7 +37,7 @@
 
 ## Used Languages
 
-[![Top Langs](https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=sonnyitsunny&layout=compact&hide=purebasic,html,css,scss,jupyter%20notebook&langs_count=6&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=sonnyitsunny&layout=compact&hide=purebasic,Ruby,Cmake,html,css,scss,jupyter%20notebook&langs_count=4&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
