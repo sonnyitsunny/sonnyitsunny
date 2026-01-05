@@ -1,8 +1,13 @@
-
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2eff9d,100:bee864&height=180&text=SON's%20GitHub&animation=&fontColor=ffffff&fontSize=60" />
+    </div>
+    
 
 
 ## 안녕하세요 손동현입니다.
-- 구조와 흐름을 중심으로 사고하고, 기술적 선택에 대한 이유를 설명할 수 있는 백엔드 개발자를 목표로 하고 있습니다.
+- 구조와 흐름 중심의 사고
+- 기술적 선택에 대한 논리
+- 백엔드 개발자를 목표로 하고 있습니다.
 
 
 ## Experience
