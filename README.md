@@ -2,14 +2,7 @@
 
 
 ## 안녕하세요 손동현입니다.
-
-<div>
-  <img
-    src="https://render.gitanimals.org/farms/sonnyitsunny"
-    width="400"
-    height="300"
-  />
-</div>
+- 구조와 흐름을 중심으로 사고하고, 기술적 선택에 대한 이유를 설명할 수 있는 백엔드 개발자를 목표로 하고 있습니다.
 
 
 ## Experience
@@ -34,6 +27,15 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+
+## Learning
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
+
+
+
 
 ## Used Languages
 
@@ -66,3 +68,11 @@
 - SnowBoard 🏂
 - Watching Formula1 🏎️
 - Golf ⛳️
+
+<div>
+  <img
+    src="https://render.gitanimals.org/farms/sonnyitsunny"
+    width="400"
+    height="300"
+  />
+</div>
