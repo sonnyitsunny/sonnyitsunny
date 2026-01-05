@@ -1,4 +1,9 @@
-## hi
+
+
+
+## 안녕하세요
+
+
 
 <div>
   <img
@@ -7,6 +12,17 @@
     height="300"
   />
 </div>
+
+
+## Experience
+
+|                      활동                      |      기간       |
+| :--------------------------------------------: | :-------------: |
+|   경희대학교 소프트웨어융합대학 컴퓨터공학과   | 2018.03-2025.02 |
+| 경희대학교 스노우보드 동아리 FAKIE 23기 부회장 | 2023.03-2024.03 |
+|   네이버 부스트캠프 웹모바일 10기 챌린지 iOS   | 2025.07-2025.08 |
+|      신한투자증권 프로디지털아카데미 7기       |    2025.12~     |
+
 
 ## Algorithm
 
@@ -26,14 +42,7 @@
 [![Top Langs](https://github-readme-stats-amber-tau-13.vercel.app/api/top-langs/?username=sonnyitsunny&layout=compact&hide=purebasic,html,css,scss,jupyter%20notebook&langs_count=6&theme=tokyonight&include_all_commits=true&exclude_repo=github-readme-stats,codingStudy2,codingStudy,chaesmos-django,PS)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Experience
 
-|                      활동                      |      기간       |
-| :--------------------------------------------: | :-------------: |
-|   경희대학교 소프트웨어융합대학 컴퓨터공학과   | 2018.03-2025.02 |
-| 경희대학교 스노우보드 동아리 FAKIE 23기 부회장 | 2023.03-2024.03 |
-|   네이버 부스트캠프 웹모바일 10기 챌린지 iOS   | 2025.07-2025.08 |
-|      신한투자증권 프로디지털아카데미 7기       |    2025.12~     |
 
 ## Certifications
 
@@ -58,3 +67,4 @@
 
 - SnowBoard 🏂
 - Watching Formula1 🏎️
+- Golf ⛳️
