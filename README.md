@@ -28,6 +28,7 @@
 - 학습한 모델을 Tflite로 변환후 Flutter를 활용한 안드로이드 앱
 
 ### 2. 유튜브 댓글 분석 서비스
+- UIKit을 활용한 iOS 앱 개발
 영상
 - https://docs.google.com/file/d/1YBUscEHz6NStLRRIeoSLFHTgoW9y7_CY/preview
 
