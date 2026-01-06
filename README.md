@@ -21,6 +21,15 @@
 |   네이버 부스트캠프 웹•모바일 10기 챌린지 모바일 iOS(Swift) | 2025.07-2025.08 |
 |      신한투자증권 프로디지털아카데미 7기       |    2025.12~     |
 
+## Project
+
+### 1. 운전자 상태 인식 서비스
+- ResNet을 활용한 모델 학습
+- 학습한 모델을 Tflite로 변환후 Flutter를 활용한 안드로이드 앱
+
+### 2. 유튜브 댓글 분석 서비스
+영상
+- https://docs.google.com/file/d/1YBUscEHz6NStLRRIeoSLFHTgoW9y7_CY/preview
 
 ## Certifications
 
