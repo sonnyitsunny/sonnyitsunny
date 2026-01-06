@@ -77,6 +77,7 @@
 
 - **Blog:** https://sonnyitsunny.tistory.com/
 - **E-Mail:** sun9999042@gmail.com
+- **Instagram:** https://www.instagram.com/sonnyitsunny
 <div>
   <img
     src="https://render.gitanimals.org/farms/sonnyitsunny"
