@@ -71,9 +71,12 @@
 - Snowboarding 🏂  
 - Watching Formula 1 🏎️  
 - Golf ⛳️  
-- 교내 교양 스노우보드 수업 강사로 활동하며 100명 이상의 학생들을 가르쳤습니다.
+- 교내 스노우보드 교양 수업 강사로 활동하며 **100명이 넘는** 학생들을 가르친 경험
 
+## Contact
 
+- **Blog:** https://sonnyitsunny.tistory.com/
+- **E-Mail:** sun9999042@gmail.com
 <div>
   <img
     src="https://render.gitanimals.org/farms/sonnyitsunny"
