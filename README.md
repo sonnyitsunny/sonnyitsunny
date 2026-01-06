@@ -73,7 +73,8 @@
 
 ## Beyond Code
 
-- Snowboarding 🏂  
+- Snowboarding 🏂
+  - **My Club Instagram:** https://www.instagram.com/fakie_khu
 - Watching Formula 1 🏎️  
 - Golf ⛳️  
 - 교내 스노우보드 교양 수업 강사로 활동하며 **100명이 넘는** 학생들을 가르친 경험
