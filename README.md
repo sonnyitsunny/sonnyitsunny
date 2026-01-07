@@ -21,17 +21,6 @@
 |   네이버 부스트캠프 웹•모바일 10기 챌린지 모바일 iOS(Swift) | 2025.07-2025.08 |
 |      신한투자증권 프로디지털아카데미 7기       |    2025.12~     |
 
-## Project
-
-### 1. 운전자 상태 인식 서비스
-- ResNet을 활용한 모델 학습
-- 학습한 모델을 Tflite로 변환후 Flutter를 활용한 안드로이드 앱
-
-### 2. 유튜브 댓글 분석 서비스
-- UIKit을 활용한 iOS 앱 개발
-
-영상
-- https://docs.google.com/file/d/1YBUscEHz6NStLRRIeoSLFHTgoW9y7_CY/preview
 
 ## Certifications
 
@@ -85,26 +74,14 @@
 ## Beyond Code
 
 - Snowboarding 🏂
-  - **My Club Instagram:** https://www.instagram.com/fakie_khu
+  - 교내 스노우보드 교양 수업 강사로 활동하며 **100명이 넘는** 학생들을 가르친 경험
 - Watching Formula 1 🏎️  
 - Golf ⛳️  
-- 교내 스노우보드 교양 수업 강사로 활동하며 **100명이 넘는** 학생들을 가르친 경험
-
-
-<img width="250" height="380" alt="스크린샷 2026-01-06 오후 12 43 25" src="https://github.com/user-attachments/assets/336662af-ffc5-4a2b-bed7-b399fad5fb58" />
-<img width="250" height="380" alt="스크린샷 2026-01-06 오후 12 34 40" src="https://github.com/user-attachments/assets/2455472d-bba0-419a-9fbd-fbc5228581ed" />
-<img width="250" height="380" alt="스크린샷 2026-01-06 오후 12 35 07" src="https://github.com/user-attachments/assets/a8b0583b-5fdc-4a1b-8a91-f2e447a98c5e" />
-
-<img width="250" height="380" alt="스크린샷 2026-01-06 오후 12 35 53" src="https://github.com/user-attachments/assets/d149f314-6bbb-4a70-a64a-cb591b89a6ce" />
-<img width="250" height="400" alt="스크린샷 2026-01-06 오후 12 34 52" src="https://github.com/user-attachments/assets/a74f943e-74db-496b-8de0-35cb4c019808" />
-<img width="250" height="400" alt="스크린샷 2026-01-06 오후 12 38 16" src="https://github.com/user-attachments/assets/2bcd2ed3-cb2b-4ed1-93a1-f8a88de019c8" />
 
 
 ## Contact
 
-- **Blog:** https://sonnyitsunny.tistory.com/
 - **E-Mail:** sun9999042@gmail.com
-- **Instagram:** https://www.instagram.com/sonnyitsunny
 <div>
   <img
     src="https://render.gitanimals.org/farms/sonnyitsunny"
